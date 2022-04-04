@@ -9,8 +9,8 @@
 /* the variable name CAN_cfg is fixed, do not change */
 CAN_device_t CAN_cfg;
 
-#define WIFISSID "CAVERNA_DOS_OGROS" //Coloque seu SSID de WiFi aqui
-#define PASSWORD "WMRG2002" //Coloque seu password de WiFi aqui
+#define WIFISSID "SSIDWifi" //Coloque seu SSID de WiFi aqui
+#define PASSWORD "senhawifi" //Coloque seu password de WiFi aqui
 #define CLIENT_ID "MR21" //ID do dispositivo (Client Id, também chamado de client name)
 #define SERVER "192.168.15.10" //Servidor (broker)
 #define PORT 1883
